@@ -1,24 +1,23 @@
 .cardGreen {
-    background-color: aquamarine;
+    background-color: rgb(177, 223, 208);
     padding: 7px;
 }
 
 .cardRed {
-    background-color: rgb(239, 149, 132);
+    background-color: rgb(211, 211, 211);
     padding: 7px;
 }
 
 
 .cardYellow {
-    background-color: rgb(239, 237, 132);
+    background-color: rgb(239, 149, 132);
     text-transform: uppercase;
     padding: 7px;
     margin-top: -25px;
-    box-shadow: 3px 5px 5px rgb(255, 0, 0);
 }
 
 .cardBlue {
-    background-color: rgb(132, 207, 239);
+    background-color: rgb(173, 205, 219);
     padding: 7px;
 
 }

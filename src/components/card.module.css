@@ -1,15 +1,5 @@
 .cardWrapper {
     width: 260px;
     text-align: center;
-
-}
-
-/* .cardMain {
-    background-color: aquamarine;
-    padding: 7px;
-} */
-
-.cardColorBlue {
-    background-color: red;
-    padding: 7px;
+    background-color: antiquewhite;
 }
