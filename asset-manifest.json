@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tariffs/static/css/main.2d4e7761.css",
+    "main.js": "/tariffs/static/js/main.91f92db8.js",
+    "index.html": "/tariffs/index.html",
+    "main.2d4e7761.css.map": "/tariffs/static/css/main.2d4e7761.css.map",
+    "main.91f92db8.js.map": "/tariffs/static/js/main.91f92db8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d4e7761.css",
+    "static/js/main.91f92db8.js"
+  ]
+}
