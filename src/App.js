@@ -1,6 +1,7 @@
 import './App.css';
 import Card from './components/Card';
-import themeCard from '../src/components/themeCard.module.css'
+import themeCard from '../src/components/themeCard.module.css';
+
 
 
 import data from './data.json';

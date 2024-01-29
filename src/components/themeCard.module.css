@@ -11,9 +11,8 @@
 
 .cardYellow {
     background-color: rgb(239, 149, 132);
-    text-transform: uppercase;
     padding: 7px;
-    margin-top: -25px;
+
 }
 
 .cardBlue {

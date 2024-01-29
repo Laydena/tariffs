@@ -3,3 +3,12 @@
     text-align: center;
     background-color: antiquewhite;
 }
+
+.active {
+    margin-top: -25px;
+    border: 2px solid red;
+}
+
+.background {
+    background-color: antiquewhite;
+}
